@@ -1,4 +1,4 @@
-# valence-arousal_erregung-wertigkeit
+# valence-arousal_wertigkeit-erregung
 
 ![23453455](https://user-images.githubusercontent.com/67435981/121498641-e6607000-c9dc-11eb-8b5a-fcdfc09f20f4.jpg)
 
