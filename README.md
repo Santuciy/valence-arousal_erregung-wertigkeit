@@ -4,8 +4,6 @@
 
 Valence - Arousal; Wertiglekeit (Valenz) - Erregung (Aufregung); Diagramm
 
-Laienhafte deutsche Übersetzung zum folgenden Bild:
-
 ![image](https://user-images.githubusercontent.com/67435981/121498861-20317680-c9dd-11eb-9eeb-c7568f5d8928.png)
 
 Quelle:
